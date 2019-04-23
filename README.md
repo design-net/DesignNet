@@ -1,4 +1,5 @@
-#DesignNet
+# DesignNet
+
 ![](https://upload-images.jianshu.io/upload_images/2955280-0767778a53b264d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 如果ImageNet数据集的建立，教会了机器理解图像；那么我们希望通过建立DesignNet数据集，教会机器理解设计。DesignNet建立了创意元素和对应属性库，做为设计行业面向数据运算的基础数据集，具体包括：
